@@ -1,7 +1,6 @@
 eksamen 2019 - Lasse Greve Rasmussen
-en
-to
-tre
-fire
-fem
-
+1
+2
+3
+4
+5
